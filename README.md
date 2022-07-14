@@ -1,1 +1,1 @@
-# CIFAR10-ANN-Classification
+# CIFAR10-Artificial-Neural-networks-ANN--Model
